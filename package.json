@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.178",
     "@plasmicapp/loader-nextjs": "^1.0.89",
+    "@plasmicapp/react-web": "^0.2.95",
+    "@plasmicpkgs/commerce": "^0.0.21",
+    "@plasmicpkgs/commerce-swell": "^0.0.23",
     "next": "12.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
